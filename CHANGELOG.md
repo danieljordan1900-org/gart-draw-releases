@@ -7,11 +7,12 @@ Formato (la app lo separa por versión):
   - viñetas en Markdown
 GART Draw lee este archivo al abrir Ayuda → Novedades: los cambios se ven sin
 publicar una versión (tardan hasta ~5 min por la caché de GitHub).
-Video: enlace de Google Drive; se abre en el navegador del usuario.
+Video: enlace https público (Google Drive, Google Fotos, YouTube…); se abre en el navegador del usuario.
 Para que un video se vea, compártelo con quienes usan la app.
 -->
 
 ## 0.1.47 — 2026-10-28
+Video: https://photos.app.goo.gl/9KcDm34pFvDPEfwn8
 - **Categorías en las galerías**: dale una categoría a cada forma (por ejemplo "Barra") y filtra la galería con un clic
 - El buscador también encuentra formas por su categoría
 - **Editar categorías** de una galería: renombrar, unir o quitar, y todas sus formas se actualizan
