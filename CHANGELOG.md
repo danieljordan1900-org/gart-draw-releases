@@ -11,6 +11,14 @@ Video: enlace https público (Google Drive, Google Fotos, YouTube…); se abre e
 Para que un video se vea, compártelo con quienes usan la app.
 -->
 
+## 0.1.48 — 2026-11-16
+- **Editor de imagen** renovado: girar y voltear (los SVG siguen siendo SVG), recortar y guardar variantes con **Guardar como**
+- Selección con asas para mover, escalar y girar; también elíptica, a mano alzada y **varita mágica**, con **Quitar fondo**
+- Cuentagotas, bote de pintura con tolerancia, menú **Tamaño** (1× a 5×) y hasta 50 pasos para deshacer
+- Pegar imágenes copiadas desde otros programas
+- **Orden manual de formas** en las galerías: arrastra para ordenarlas o insertarlas
+- Botón para **quitar decimales** de la posición X/Y
+
 ## 0.1.47 — 2026-10-28
 Video: https://photos.app.goo.gl/9KcDm34pFvDPEfwn8
 - **Categorías en las galerías**: dale una categoría a cada forma (por ejemplo "Barra") y filtra la galería con un clic
