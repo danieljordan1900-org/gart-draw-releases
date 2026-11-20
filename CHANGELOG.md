@@ -11,6 +11,18 @@ Video: enlace https público (Google Drive, Google Fotos, YouTube…); se abre e
 Para que un video se vea, compártelo con quienes usan la app.
 -->
 
+## 0.1.49 — 2026-11-20
+- **Formularios renovados**: 9 estilos nuevos, cada uno con su miniatura en la galería
+- Campos de texto: **recuadro**, **subrayado** y **valor destacado**; siguen sirviendo como entrada de los calculadores
+- Etiquetas: **título de sección**, **nota** y **designador** (R1, K2…), que se ajusta al texto
+- **Áreas de texto con formato**: títulos, listas, negrita y enlaces escritos en Markdown, con ajuste de líneas. Se editan con doble clic o desde el campo Texto del panel derecho
+- Herramienta **Texto** como en Visio: clic en el lienzo y escribe; la caja se ajusta al texto
+- **Tipo de punta** para las flechas (Simple, Doble, Triángulo, Abierta, Círculo, Rombo)
+- Corregido: al mover una forma dentro de un grupo se desplazaban las demás
+- Corregido: el alto y ancho en mm no se actualizaban al mover los puntos de una línea o flecha
+- Corregido: el texto vertical o inclinado se descentraba al cambiar de tamaño
+- Corregido: el botón Pegar del editor de imagen pedía permiso de WebView2
+
 ## 0.1.48 — 2026-11-16
 - **Editor de imagen** renovado: girar y voltear (los SVG siguen siendo SVG), recortar y guardar variantes con **Guardar como**
 - Selección con asas para mover, escalar y girar; también elíptica, a mano alzada y **varita mágica**, con **Quitar fondo**
