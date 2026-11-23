@@ -11,6 +11,14 @@ Video: enlace https público (Google Drive, Google Fotos, YouTube…); se abre e
 Para que un video se vea, compártelo con quienes usan la app.
 -->
 
+## 0.1.50 — 2026-11-23
+- **Marco de página** (Diseño › Marco): Sin marco, Simple o Personalizar…, por hoja e incluido al exportar a PDF
+- **Plantillas de marcos**: MANUMAX y tus plantillas guardadas, con las 3 más recientes en el menú
+- **Más plantillas…**: buscador, miniaturas y ficha con autor y fecha; desde ahí se usan, editan, renombran y eliminan
+- Al cambiar de plantilla se conserva lo escrito en los rótulos
+- **Guardar en galería** unificado: el mismo diálogo al guardar un grupo, un componente o un dibujo, con Guardar y Guardar como
+- Los **componentes** de las galerías muestran una miniatura de su contenido en lugar del ícono 🧩
+
 ## 0.1.49 — 2026-11-20
 - **Formularios renovados**: 9 estilos nuevos, cada uno con su miniatura en la galería
 - Campos de texto: **recuadro**, **subrayado** y **valor destacado**; siguen sirviendo como entrada de los calculadores
