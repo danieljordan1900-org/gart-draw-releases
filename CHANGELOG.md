@@ -11,6 +11,23 @@ Video: enlace https público (Google Drive, Google Fotos, YouTube…); se abre e
 Para que un video se vea, compártelo con quienes usan la app.
 -->
 
+## 0.1.51 — 2026-11-25
+- **Agrupar estirable** (Inicio › Organizar › Más): al estirar el grupo cada pieza sigue su regla (Ancho fijo, Alto fijo, Mismo tamaño o Crecer en proporción), sin deformar círculos ni bordes
+- Panel del grupo en secciones: **Posición**, **Dimensiones** (alto, ancho y profundidad totales, siempre al día y editables en grupos estirables), **Rotación**, **Alinear elementos** y **Guardar componente**
+- **Girar grupos** de 90° en 90° desde el panel
+- Botón **Aplicar** en la rotación de formas (Enter sigue funcionando)
+- **Copia espejo** de la selección (Inicio › Organizar › Más): arriba, abajo, derecha o izquierda
+- **Formato de los textos del marco**: un clic en un texto de MANUMAX y Inicio › Formato le cambia negrita, fuente, tamaño o color
+- **Sin plantilla** en Diseño › Plantillas de marcos
+- Zoom de **25 % a 800 %**
+- Grosor de línea **0,25**
+- Nueva forma **Área: leyenda** en Formularios
+- La franja de la selección en las reglas es naranja y más gruesa
+- Corregido: en MANUMAX las casillas de valor se ajustan a su celda y los tamaños de letra son enteros
+- Corregido: la línea de los campos subrayados toma el color del texto
+- Corregido: un clic en Tipografía es un solo paso de deshacer
+- Corregido: las miniaturas de componentes con piezas finas ya no se ven como rayones negros
+
 ## 0.1.50 — 2026-11-23
 - **Marco de página** (Diseño › Marco): Sin marco, Simple o Personalizar…, por hoja e incluido al exportar a PDF
 - **Plantillas de marcos**: MANUMAX y tus plantillas guardadas, con las 3 más recientes en el menú
